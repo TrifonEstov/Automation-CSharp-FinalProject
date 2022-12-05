@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PMtOXHcdqNdJnKqQBDEBoloqE4DGq1RTKWnHRgBq8t9K+jeUp/PhnEY8B5vjOfE43WwWGC0lM7Rb2TIsZpvOdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trifo\\source\\repos\\AutomationCSharp\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trifo\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\trifo\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\trifo\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\trifo\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\trifo\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\trifo\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

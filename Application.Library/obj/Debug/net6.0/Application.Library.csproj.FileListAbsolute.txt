@@ -1,0 +1,5 @@
+C:\Users\trifo\source\repos\AutomationCSharp\Application.Library\obj\Debug\net6.0\Application.Library.csproj.AssemblyReference.cache
+C:\Users\trifo\source\repos\AutomationCSharp\Application.Library\obj\Debug\net6.0\Application.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trifo\source\repos\AutomationCSharp\Application.Library\obj\Debug\net6.0\Application.Library.AssemblyInfoInputs.cache
+C:\Users\trifo\source\repos\AutomationCSharp\Application.Library\obj\Debug\net6.0\Application.Library.AssemblyInfo.cs
+C:\Users\trifo\source\repos\AutomationCSharp\Application.Library\obj\Debug\net6.0\Application.Library.csproj.CoreCompileInputs.cache
